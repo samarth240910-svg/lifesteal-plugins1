@@ -1,1 +1,11 @@
+name: Lifesteal
+version: 1.0
+main: lifesteal.LifestealPlugin
+api-version: 1.20
+author: HeartHeist
+
+commands:
+  hearts:
+    description: Manage player hearts
+    usage: /hearts <set|add|remove> <player> <amount>
 
